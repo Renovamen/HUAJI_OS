@@ -782,7 +782,6 @@ void help()
     printf("       cat         [filename]        : display content of the file            \n");
     printf("       vi          [filename]        : modify the content of the file         \n");
     printf("       rm          [filename]        : delete a file                          \n");
-    printf("       encrypt     [filename]        : encrypt a file                         \n");
     printf("       cd          [pathname]        : change the directory                   \n");
     printf("       mkdir       [dirname]         : create a new directory                 \n");
     printf("       process                       : display all process-info and manage    \n");
