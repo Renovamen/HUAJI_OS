@@ -1,6 +1,6 @@
 ## HUAJI OS 操作系统课程设计说明文档
 
-
+ >Life is short, you need HUAJI!
 
 
 
